@@ -1,0 +1,148 @@
+1668883881150	geckodriver	INFO	Listening on 127.0.0.1:64135
+1668883884255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64136" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofilelx0nHw"
+1668883884653	Marionette	INFO	Marionette enabled
+1668883884657	Marionette	INFO	Listening on port 64147
+Read port: 64147
+WebDriver BiDi listening on ws://127.0.0.1:64136
+1668883884795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofilelx0nHw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64136/devtools/browser/8651660b-6492-4f5b-921d-2a388ed21d9f
+JavaScript warning: https://web.tel.onl/main.d44f338a78bbc4d0fe78.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668884865983	Marionette	INFO	Stopped listening on port 64147
+1668884914447	geckodriver	INFO	Listening on 127.0.0.1:64352
+1668884917558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofilePnPVBa"
+1668884917996	Marionette	INFO	Marionette enabled
+1668884917999	Marionette	INFO	Listening on port 64364
+Read port: 64364
+WebDriver BiDi listening on ws://127.0.0.1:64353
+1668884918124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofilePnPVBa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64353/devtools/browser/0a5c6782-7991-46ae-86f0-d8d38415d06f
+JavaScript warning: https://web.tel.onl/main.d44f338a78bbc4d0fe78.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668885342571	Marionette	INFO	Stopped listening on port 64364
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668885344417	geckodriver	INFO	Listening on 127.0.0.1:64633
+1668885347489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofilefNW0rJ"
+1668885347871	Marionette	INFO	Marionette enabled
+1668885347877	Marionette	INFO	Listening on port 64645
+Read port: 64645
+WebDriver BiDi listening on ws://127.0.0.1:64634
+1668885348007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofilefNW0rJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64634/devtools/browser/2074b5f6-ed77-4fc3-bd62-3d8ba9c5e282
+JavaScript warning: https://web.tel.onl/main.d44f338a78bbc4d0fe78.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668885411793	Marionette	INFO	Stopped listening on port 64645
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668885414388	geckodriver	INFO	Listening on 127.0.0.1:64733
+1668885417452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofile4RZCtZ"
+1668885417776	Marionette	INFO	Marionette enabled
+1668885417780	Marionette	INFO	Listening on port 64747
+Read port: 64747
+WebDriver BiDi listening on ws://127.0.0.1:64734
+1668885417936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofile4RZCtZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64734/devtools/browser/4ca36fa7-0585-46e4-ba0e-485ad1dc8655
+JavaScript warning: https://web.tel.onl/main.d44f338a78bbc4d0fe78.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668885745170	Marionette	INFO	Stopped listening on port 64747
+1668885751200	geckodriver	INFO	Listening on 127.0.0.1:64877
+1668885754265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64878" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofile0v8z0d"
+1668885754583	Marionette	INFO	Marionette enabled
+1668885754588	Marionette	INFO	Listening on port 64888
+Read port: 64888
+WebDriver BiDi listening on ws://127.0.0.1:64878
+1668885754723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofile0v8z0d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64878/devtools/browser/d102b6c5-d310-4a0f-91b1-4a5afb724229
+JavaScript warning: https://web.tel.onl/main.d44f338a78bbc4d0fe78.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rVlqs_C6MEoymNIgrpYBY2eJfhVJuMjEUeWab4z9yRM.js line 2 > eval line 7510 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.tel.onl."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668885893149	Marionette	INFO	Stopped listening on port 64888
+1668885904813	geckodriver	INFO	Listening on 127.0.0.1:65048
+1668885907896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofileAtI12B"
+1668885908264	Marionette	INFO	Marionette enabled
+1668885908269	Marionette	INFO	Listening on port 65059
+Read port: 65059
+WebDriver BiDi listening on ws://127.0.0.1:65049
+1668885908404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofileAtI12B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65049/devtools/browser/44c44a37-c2e1-4701-a8fe-70c040d4df81
+JavaScript warning: https://web.tel.onl/main.d44f338a78bbc4d0fe78.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.tel.onl."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668885978143	Marionette	INFO	Stopped listening on port 65059
+1668885979976	geckodriver	INFO	Listening on 127.0.0.1:65141
+1668885983068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofileUpV4vc"
+1668885983437	Marionette	INFO	Marionette enabled
+1668885983443	Marionette	INFO	Listening on port 65153
+Read port: 65153
+WebDriver BiDi listening on ws://127.0.0.1:65142
+1668885983590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cetin\\AppData\\Local\\Temp\\rust_mozprofileUpV4vc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65142/devtools/browser/3e0fe771-8098-49f2-8101-ff328e11d31f
+JavaScript warning: https://web.tel.onl/main.d44f338a78bbc4d0fe78.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.tel.onl/main.d44f338a78bbc4d0fe78.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.tel.onl."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rVlqs_C6MEoymNIgrpYBY2eJfhVJuMjEUeWab4z9yRM.js line 2 > eval line 484 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rVlqs_C6MEoymNIgrpYBY2eJfhVJuMjEUeWab4z9yRM.js line 2 > eval line 7775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-client.medium.com/lite/static/js/3034.5bf7db30.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://cdn-client.medium.com/lite/static/js/3034.5bf7db30.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://cdn-client.medium.com/lite/static/js/3034.5bf7db30.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://cdn-client.medium.com/lite/static/js/3034.5bf7db30.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://cdn-client.medium.com/lite/static/js/3034.5bf7db30.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://cdn-client.medium.com/lite/static/js/3034.5bf7db30.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://cdn-client.medium.com/lite/static/js/3034.5bf7db30.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://cdn-client.medium.com/lite/static/js/3034.5bf7db30.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed again InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-config)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668896742741	Marionette	INFO	Stopped listening on port 65153
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://web.tel.onl/mtproto.worker.1ea98ccc733933a3148b.chunk.js, line 1: NS_ERROR_CONTENT_BLOCKED
+[Parent 14980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
